@@ -1,5 +1,5 @@
 <img src="https://images.unsplash.com/photo-1708139374613-0324905cd967?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8c2FtYW5hJTIwZG9taW5pY2FuJTIwcmVwdWJsaWN8ZW58MHx8MHx8fDA%3D" alt="Titelbild" width="600" height="300"/>
- .--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--. 
+<pre>.--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--. 
 / .. \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \
 \ \/\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ \/ /
  \/ /`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'\/ / 
@@ -22,12 +22,12 @@
  / /\.--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--./ /\ 
 / /\ \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \/\ \
 \ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `' /
- `--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'         
+ `--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'</pre>
 
 <br>About me:<br>
 
-:book: * I am eager to learn JavaScript, HTML, and CSS at a professional level. * <br>
-:white_check_mark: * I like rap, techno, jazz while tinkering hardware/software. * <br>
-:warning: * I don't like cats (please don't start a shitstorm). ;) * <br>
+:book: _ I am eager to learn JavaScript, HTML, and CSS at a professional level. _ <br>
+:white_check_mark: _ I like rap, techno, jazz while tinkering hardware/software. _ <br>
+:warning: _ I don't like cats (please don't start a shitstorm). ;) _ <br>
 <br>
 <img src="https://images.unsplash.com/photo-1708139374613-0324905cd967?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8c2FtYW5hJTIwZG9taW5pY2FuJTIwcmVwdWJsaWN8ZW58MHx8MHx8fDA%3D" alt="Titelbild" style="transform: rotate(180deg);" width="600" height="300">
