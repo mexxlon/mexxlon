@@ -30,4 +30,4 @@
 :warning: * I don't like cats (please don't start a shitstorm). * <br>
 <br>
 
-[![Visits Badge](https://badges.pufler.dev/visits/pujux/badge-it)](https://badges.pufler.dev)https://badges.pufler.dev/visits/mexxlon/mexxlon
+
