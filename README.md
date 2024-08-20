@@ -29,5 +29,5 @@
 :heavy_check_mark: * I like rap, techno, jazz while tinkering hardware/software. * <br>
 :warning: * I don't like cats (please don't start a shitstorm). * <br>
 <br>
-
+![Visitor Count](https://profile-counter.glitch.me/mexxlon/count.svg)
 
