@@ -25,9 +25,8 @@
 
 <br>About me:<br>
 
-:book: * I am eager to learn JavaScript, HTML, and CSS at a professional level. * <br>
-:heavy_check_mark: * I like rap, techno, jazz while tinkering hardware/software. * <br>
-:warning: * I don't like cats (please don't start a shitstorm). * <br>
+:book: _ I am eager to learn JavaScript, HTML, and CSS at a professional level. _ <br>
+:heavy_check_mark: _ I like rap, techno, jazz while tinkering hardware/software. _ <br>
+:warning: _ I don't like cats (please don't start a shitstorm). _ <br>
 <br>
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=mexxlon.mexxlon)
-
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=mexxlon.mexxlon&left_color=grey&right_color=lightgreen)
