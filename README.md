@@ -29,4 +29,4 @@
 :heavy_check_mark: * I like rap, techno, jazz while tinkering hardware/software. * <br>
 :warning: * I don't like cats (please don't start a shitstorm). * <br>
 <br>
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=mexxlon.mexxlon&left_color=grey&right_color=#729762)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=mexxlon.mexxlon&left_color=grey&right_color=forestgreen)
