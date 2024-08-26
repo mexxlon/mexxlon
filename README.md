@@ -23,10 +23,16 @@
 \ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `' /
  `--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'</pre>
 
-<br>About me:<br>
+# Hi there! 👋
 
-:book: _ I am eager to learn JavaScript, HTML, and CSS at a professional level. _ <br>
-:heavy_check_mark: _ I like rap, techno, jazz while tinkering hardware/software. _ <br>
-:warning: _ I don't like cats (please don't start a shitstorm). _ <br>
+### About Me
+
+- 🚀 **Eager Learner**: Currently deep diving into **JavaScript**, **React**, and **Next.js**.
+- ⚡ **Tinkerer**: Passionate about tinkering with hardware and software, always exploring new possibilities.
+- 🎵 **Vibe Enthusiast**: Currently listening to **jazz** and **lofi-beats** while tinkering.
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat-square)
 <br>
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=mexxlon.mexxlon&left_color=grey&right_color=lightgreen)
