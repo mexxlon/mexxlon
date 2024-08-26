@@ -26,7 +26,7 @@
 # Hi there! 👋
 
 - 🚀 **Eager Learner**: Currently deep diving into **JavaScript**, **React**, and **Next.js**.
-- ⚡ **Tinkerer**: Passionate about tinkering with hardware and software, always exploring new possibilities.
+- ⚡ **Tinkerer**: Passionate about tinkering with hardware and software.
 - 🎵 **Vibe Enthusiast**: Currently listening to **jazz** and **lofi-beats** while tinkering.
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
