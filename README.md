@@ -25,8 +25,6 @@
 
 # Hi there! 👋
 
-### About Me
-
 - 🚀 **Eager Learner**: Currently deep diving into **JavaScript**, **React**, and **Next.js**.
 - ⚡ **Tinkerer**: Passionate about tinkering with hardware and software, always exploring new possibilities.
 - 🎵 **Vibe Enthusiast**: Currently listening to **jazz** and **lofi-beats** while tinkering.
@@ -35,4 +33,4 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat-square)
 <br>
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=mexxlon.mexxlon&left_color=grey&right_color=lightgreen)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=mexxlon.mexxlon&left_color=grey&right_color=forestgreen)
